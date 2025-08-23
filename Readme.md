@@ -19,7 +19,7 @@ All dependencies are listed in `requirements.txt`.
 Install them using:
 ```bash
 pip install -r requirements.txt
-INSTALLATION
+**INSTALLATION**
 
 Clone the repository:
 
@@ -54,9 +54,8 @@ Testing the Model
 python test.py
 Note: Place your dataset inside a data/ folder with annotations.
 
-PROJECT STRUCTURE
+**PROJECT STRUCTURE**
 
-bash
 
 .
 ├── data/                # Dataset folder
@@ -78,6 +77,6 @@ Matplotlib
 
 Pandas & NumPy
 
-LICENSE
+**LICENSE**
 This project is licensed under the MIT License.
 

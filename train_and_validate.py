@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader, Dataset
 from matplotlib import pyplot as plt
 plt.rcParams['figure.figsize']=(10.0,10.0)
 
-INPUT_DIR = os.path.abspath('C:\\Users\\Maria\\Downloads\\global-wheat-detection')
+INPUT_DIR = os.path.abspath('---plug in your file path')
 TRAIN_DIR = os.path.join(INPUT_DIR, "train")
 
 # Load and Show Training Labels
@@ -183,3 +183,4 @@ for epoch in range(num_epochs):
             print("Mimicats")
 
             print("Mini-batch: %i/%i Loss: %.4f" % ( batch_id + 1, len(train_data_loader), average_loss))
+

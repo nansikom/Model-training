@@ -33,9 +33,8 @@ Create a virtual environment (recommended):
 bash
 
 python -m venv venv
-# On Linux/Mac
-source venv/bin/activate
-# On Windows
+
+On Windows
 venv\Scripts\activate
 Install dependencies:
 

@@ -1,5 +1,4 @@
 **MODEL TRAINING WITH FASTER R-CNN**
-
 This project trains an object detection model using **Faster R-CNN** with a ResNet-50 backbone on a custom dataset. The model leverages PyTorch and Torchvision for training and evaluation.
 
 ---
@@ -14,25 +13,20 @@ This project trains an object detection model using **Faster R-CNN** with a ResN
 ---
 
 **REQUIREMENTS**
-
 All dependencies are listed in `requirements.txt`.  
-
 Install them using:
 bash
 pip install -r requirements.txt
 
 **INSTALLATION**
-
 Clone the repository:
 
 bash
-
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 Create a virtual environment (recommended):
 
 bash
-
 python -m venv venv
 
 On Windows
@@ -40,17 +34,15 @@ venv\Scripts\activate
 Install dependencies:
 
 bash
-
 pip install -r requirements.txt
 
 Training the Model
 python train.py
 
 If running the train2.py change it to the ipynb and run it in google collab
-Testing the Model
+python train2.py
 
 **PROJECT STRUCTURE**
-
 ```text
 project-root/
 ├── data/                 (Dataset folder: images, annotations)
@@ -63,10 +55,9 @@ project-root/
 │   └── utils.py          (Helper functions)
 ├── requirements.txt      (Python dependencies)
 └── README.md             (Project documentation)
-
 ```
-**TECHNOLOGIES USED**
 
+**TECHNOLOGIES USED**
 Python 3.10+
 PyTorch
 Torchvision
@@ -75,7 +66,6 @@ Matplotlib
 Pandas & NumPy
 
 **LICENSE**
-
 This project is licensed under the MIT License.
 
 Result should look like this 

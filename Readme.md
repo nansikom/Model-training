@@ -57,8 +57,6 @@ Note: Place your dataset inside a data/ folder with annotations.
 **PROJECT STRUCTURE**
 
 
-
-.
 ├── data/                # Dataset folder
 ├── train.py             # Training script
 ├── test.py              # Testing / inference script

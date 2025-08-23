@@ -20,6 +20,7 @@ All dependencies are listed in `requirements.txt`.
 Install them using:
 bash
 pip install -r requirements.txt
+
 **INSTALLATION**
 
 Clone the repository:

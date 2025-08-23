@@ -69,7 +69,7 @@ project-root/
 ├── requirements.txt      (Python dependencies)
 └── README.md             (Project documentation)
 
-
+```
 TECHNOLOGIES USED
 
 Python 3.8+
@@ -86,4 +86,8 @@ Pandas & NumPy
 
 **LICENSE**
 This project is licensed under the MIT License.
+
+Result should look like this 
+![Alt Text](C:\Users\nansi\Downloads\readme.png)
+
 

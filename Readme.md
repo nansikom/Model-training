@@ -56,17 +56,19 @@ Note: Place your dataset inside a data/ folder with annotations.
 
 **PROJECT STRUCTURE**
 
+```text
 project-root/
-├── data/ # Dataset folder (images, annotations)
-├── models/ # Saved / trained models
-├── notebooks/ # Jupyter notebooks for exploration & visualization
-├── src/ # Source code
-│ ├── dataset.py # Custom Dataset class
-│ ├── train.py # Training script
-│ ├── test.py # Testing / inference script
-│ └── utils.py # Helper functions
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── data/                 (Dataset folder: images, annotations)
+├── models/               (Saved / trained models)
+├── notebooks/            (Jupyter notebooks for exploration & visualization)
+├── src/                  (Source code)
+│   ├── dataset.py        (Custom Dataset class)
+│   ├── train.py          (Training script)
+│   ├── test.py           (Testing / inference script)
+│   └── utils.py          (Helper functions)
+├── requirements.txt      (Python dependencies)
+└── README.md             (Project documentation)
+
 
 TECHNOLOGIES USED
 

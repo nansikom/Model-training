@@ -57,7 +57,7 @@ project-root/
 └── README.md             (Project documentation)
 ```
 
-#**TECHNOLOGIES USED**
+##**TECHNOLOGIES USED**
 Python 3.10+
 PyTorch
 Torchvision

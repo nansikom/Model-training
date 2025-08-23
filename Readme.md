@@ -74,15 +74,10 @@ project-root/
 **TECHNOLOGIES USED**
 
 Python 3.8+
-
 PyTorch
-
 Torchvision
-
 OpenCV
-
 Matplotlib
-
 Pandas & NumPy
 
 **LICENSE**

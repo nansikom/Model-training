@@ -42,19 +42,12 @@ Install dependencies:
 bash
 
 pip install -r requirements.txt
-HOW TO RUN
 
 Training the Model
-
-bash
 python train.py
+
 If running the train2.py change it to the ipynb and run it in google collab
 Testing the Model
-
-
-
-python test.py
-Note: Place your dataset inside a data/ folder with annotations.
 
 **PROJECT STRUCTURE**
 

@@ -14,6 +14,7 @@ This project trains an object detection model using **Faster R-CNN** with a ResN
 ---
 
 **REQUIREMENTS**
+
 All dependencies are listed in `requirements.txt`.  
 
 Install them using:
@@ -71,7 +72,7 @@ project-root/
 └── README.md             (Project documentation)
 
 ```
-TECHNOLOGIES USED
+**TECHNOLOGIES USED**
 
 Python 3.8+
 

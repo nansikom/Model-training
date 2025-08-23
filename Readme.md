@@ -88,6 +88,6 @@ Pandas & NumPy
 This project is licensed under the MIT License.
 
 Result should look like this 
-![Alt Text](C:\Users\nansi\Downloads\readme.png)
+![Sample Wheat Image](images/readme.png)
 
 

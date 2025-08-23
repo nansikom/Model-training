@@ -47,6 +47,7 @@ Training the Model
 
 bash
 python train.py
+If running the train2.py change it to the ipynb and run it in google collab
 Testing the Model
 
 

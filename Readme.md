@@ -17,7 +17,7 @@ This project trains an object detection model using **Faster R-CNN** with a ResN
 All dependencies are listed in `requirements.txt`.  
 
 Install them using:
-```bash
+bash
 pip install -r requirements.txt
 **INSTALLATION**
 
